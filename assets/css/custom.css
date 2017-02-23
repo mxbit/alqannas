@@ -1,1 +1,14 @@
 /* Add here all your css styles (customizations) */
+.navbar{height: 100px;}
+.navbar-ex1-collapse .navbar-nav{margin-top: 43px;}
+.navbar-default {background-color: rgba(27, 25, 25,0.99);}
+.top-nav-collapse{background-color: #fff!important;}
+.navbar-default .navbar-nav > li > a{font-size: 13px;}
+.navbar-default .navbar-nav > li > a:before{color: rgba(0,0,0,0)!important;}
+.title-v1{text-align: left;}
+.title-v1 h1:after, .title-v1 h2:after { left: 3%!important; width: 200px!important; }
+
+.rs-caption-1 {
+    background: rgba(44, 149, 192, 0.76);}
+
+    .about-section .about-image{padding-top: 70px;}
